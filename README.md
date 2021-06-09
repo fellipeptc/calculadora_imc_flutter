@@ -2,4 +2,4 @@
 
 Projeto em Flutter para calculo básico do IMC.
 
-## Curso Flutter
+## Curso Flutter - Criação de Apps Android e IOS (Udemy)
